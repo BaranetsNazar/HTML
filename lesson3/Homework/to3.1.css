@@ -1,9 +1,9 @@
- #conteiner
- {  background-color: #ffffff;
-     display: flex;
-     justify-content: flex-start;
-     flex-wrap: wrap;
- }
+#conteiner
+{  background-color: #ffffff;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
 .A{
     height: 150.6px;
     width: 948.8px;
@@ -41,3 +41,5 @@
     justify-content: center
 
 }
+
+
