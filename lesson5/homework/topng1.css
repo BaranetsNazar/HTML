@@ -1,10 +1,13 @@
 
 #Ablock {
+    border-radius: 50px;
     width: 1200px;
     height: 300px;
     background: #d7d6f1;
+    /*display: flex;*/
     display: flex;
-
+    align-items: center;
+    justify-content: center;
 }
 .A {
     box-sizing: border-box;
@@ -14,7 +17,7 @@
     justify-content: center;
 }
 #BC {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 1200px;
     height: 600px;
     background: #ffffff;
@@ -22,6 +25,7 @@
     flex-direction: row;
 }
 .B {
+    border-radius: 50px;
     box-sizing: border-box;
     width: 750px;
     height: 600px;
@@ -33,10 +37,11 @@
 
 }
 .C {
+    border-radius: 50px;
     box-sizing: border-box;
-    width: 430px;
+    width: 440px;
     height: 600px;
-    margin-left: 20px;
+    margin-left: 10px;
     font-size: 80px;
     background: #d7d6f1;
     display: flex;
@@ -48,28 +53,25 @@
 @media screen and (min-width: 322px) and (max-width: 844px)
 {
     .A {
-        width: 844px;
+        width: 843px;
         height: 300px;
-        /*padding-top: 50px;*/
+        /*display: flex;*/
+        /*align-items: center;*/
+        /*justify-content: center;*/
     }
     .B{
-        border-radius: 50px;
-        width: 844px;
+        width: 843px;
         height: 600px;
-        /*padding-top: 150px;*/
     }
     .C {
-        border-radius: 50px;
-        width: 844px;
+        width: 843px;
         height: 300px;
-        margin-top: 20px;
-        margin-left: 0;
-        /*padding-top: 50px;*/
+        margin-top: 10px;
+        margin-left: 0px;
     }
     #Ablock {
-        width: 844px;
+        width: 843px;
         height: 200px;
-        /*border-radius: 50px;*/
     }
     #BC {
         flex-direction: column;
