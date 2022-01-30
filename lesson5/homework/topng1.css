@@ -53,27 +53,28 @@
 @media screen and (min-width: 322px) and (max-width: 844px)
 {
     .A {
-        width: 843px;
+        width: 803px;
         height: 300px;
         /*display: flex;*/
         /*align-items: center;*/
         /*justify-content: center;*/
     }
     .B{
-        width: 843px;
+        width: 803px;
         height: 600px;
     }
     .C {
-        width: 843px;
+        width: 803px;
         height: 300px;
         margin-top: 10px;
         margin-left: 0px;
     }
     #Ablock {
-        width: 843px;
+        width: 803px;
         height: 200px;
     }
     #BC {
         flex-direction: column;
+        width: 803px;
     }
 }

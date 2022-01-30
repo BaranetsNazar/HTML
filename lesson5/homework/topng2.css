@@ -77,6 +77,11 @@
     background: #9b98c0;
 }
 @media screen and (min-width: 380px) and (max-width: 844px) {
+    #main {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
     #A {
         font-size: 40px;
         display: flex;
