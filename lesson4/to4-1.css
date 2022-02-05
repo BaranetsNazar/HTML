@@ -1,0 +1,249 @@
+.body{
+    height: auto;
+    width: 1024px;
+}
+#top_block {
+    width: 1024px;
+    height: 550px;
+    background: darkgrey;
+    justify-content: space-evenly;
+}
+#border_radius {
+    /*margin-top: 10px;*/
+    margin-left: 10px;
+    width: 1000px;
+    height: 500px;
+    border: dashed cornflowerblue;
+    /*border-size:10px;*/
+    border-radius: 150px;
+}
+#blocks {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#bottoms{
+    flex-direction: column;
+
+}
+.bottom {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+.bottom2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#top_line {
+    margin-top: 10px;
+    margin-left:350px ;
+    margin-right: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+.first_line {
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 180px;
+    height: 15px;
+    background: #000;
+}
+.second_line {
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100px;
+    height: 15px;
+    background: #000;
+}
+.first_block {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    background: darkblue;
+}
+.second_block {
+    margin-top:20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: darkblue;
+}
+.third_block{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: darkblue;
+    /*margin-top: 120px;*/
+    /*margin-left: 70px;*/
+}
+.fourth_block {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: darkblue;
+}
+.one_one {
+    margin-left: 40px;
+    border-radius: 20px;
+    width: 120px;
+    height: 10px;
+    background: darkblue;
+}
+.one_two{
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 60px;
+    height: 10px;
+    background: darkblue;
+}
+.second_one {
+    margin-left: 40px;
+    border-radius: 20px;
+    width: 120px;
+    height: 10px;
+    background: darkblue;
+}
+.second_two {
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 60px;
+    height: 10px;
+    background: darkblue;
+}
+.third_one {
+    margin-left: 40px;
+    border-radius: 20px;
+    width: 120px;
+    height: 10px;
+    background: darkblue;
+}
+.third_two {
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 60px;
+    height: 10px;
+    background: darkblue;
+}
+.forth_one {
+    margin-left: 40px;
+    border-radius: 20px;
+    width: 120px;
+    height: 10px;
+    background: darkblue;
+}
+.fourth_two {
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 60px;
+    height: 10px;
+    background: darkblue;
+}
+.first{
+    border-radius: 20px;
+    width: 200px;
+    height: 10px;
+    background: darkblue;
+}
+.second{
+    border-radius: 20px;
+    width: 200px;
+    height: 10px;
+    background: darkblue;
+}
+.third{
+    border-radius: 20px;
+    width: 200px;
+    height: 10px;
+    background: darkblue;
+}
+.forth{
+    border-radius: 20px;
+    width: 200px;
+    height: 10px;
+    background: darkblue;
+}
+#dark_block {
+    display: flex;
+    width: 1024px;
+    height: 600px;
+    background: #262665;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+#rounds{
+    justify-content: space-evenly;
+
+    display:flex;
+    flex-direction: row;
+}
+#first_round {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    background: #262665;
+    margin-top: 50px;
+}
+.one_round {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    background: #AAAAAAFF;
+    border-radius: 50%;
+}
+#second_round {
+    border: dashed cornflowerblue;
+    border-radius:20px;
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+
+}
+.second_round {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    background: #AAAAAAFF;
+    border-radius: 50%;
+    /*margin-top: 50px;*/
+}
+#third_round {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    background: #262665;
+
+}
+.third_round {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    background: #aaaaaa;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.first1{
+    border-radius: 20px;
+    width: 250px;
+    height: 15px;
+    background: #AAAAAAFF;
+}
+.second1{
+    border-radius: 20px;
+    width: 250px;
+    height: 15px;
+    background: #AAAAAAFF;
+}
+.third1{
+    border-radius: 20px;
+    width: 250px;
+    height: 15px;
+    background: #aaaaaa;
+}
+

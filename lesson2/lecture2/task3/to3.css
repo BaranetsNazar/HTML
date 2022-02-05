@@ -1,0 +1,14 @@
+.one {
+    width: 400px;
+    height: 200px;
+    background: gray;
+    margin-top: 100px;
+    box-shadow: tan -15px -15px 30px 15px;
+}
+
+.txt1 {
+    width: 300px;
+    padding-left: 20px;
+    border-left: 5px solid red;
+
+}
