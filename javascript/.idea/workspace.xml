@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85adf13f-80b6-49a8-9512-5db838404bde" name="Changes" comment="12" />
+    <list default="true" id="85adf13f-80b6-49a8-9512-5db838404bde" name="Changes" comment="12">
+      <change beforePath="$PROJECT_DIR$/lesson1/classswork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/classswork/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +38,7 @@
       <workItem from="1644002675702" duration="352000" />
       <workItem from="1644004191742" duration="70000" />
       <workItem from="1644004787878" duration="90000" />
+      <workItem from="1644066993842" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1644004801472</created>
